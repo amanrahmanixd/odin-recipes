@@ -1,0 +1,23 @@
+.heading{
+    background-color: rgb(37, 109, 109);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
+    margin: 100px;
+    color: beige;
+    text-align: center;
+}
+.all{
+    background-color: rgb(223, 187, 187);
+    padding: 30px;
+}
+.same{
+    background-color: rgb(32, 46, 94);
+    margin: 20px;
+    font-size: 15px;
+    font-style: italic;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
